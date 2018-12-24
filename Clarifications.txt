@@ -1,2 +1,3 @@
 Question: I see Data-as-a-Service (DaaS) as one of the managed services offered by companies like Sisense. But that was judged as wrong in the quiz. What is your opinion?
 Answer: Yes, I also checked on the internet and found that DaaS is one of the XaaS
+Question: Hello Guna, would you be able to add me as a contributor?
